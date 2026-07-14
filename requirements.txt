@@ -1,0 +1,10 @@
+# Original notebooks used Python 3.11.9.
+# Exact package versions must be captured from the author's original environment.
+jupyter
+matplotlib
+numpy
+pandas
+scikit-learn
+seaborn
+shap
+xgboost
